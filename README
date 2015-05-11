@@ -1,0 +1,13 @@
+# clj-punkt
+
+Clojure implementation of the Punkt sentence splitting system. See http://www.mitpressjournals.org/doi/abs/10.1162/coli.2006.32.4.485
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2011,2012,2013,2014,2015 Linkfluence
+
+Distributed under the Eclipse Public License, the same as Clojure.
